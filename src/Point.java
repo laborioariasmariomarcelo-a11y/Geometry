@@ -26,5 +26,6 @@ public class Point {
     public void moveTo(int x, int y) {
         this.x = x;
         this.y = y;
+
     }
 }
